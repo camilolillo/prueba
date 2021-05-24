@@ -1,0 +1,6 @@
+framework module Pods_prueba_camilo_lillo_prueba_camilo_lilloUITests {
+  umbrella header "Pods-prueba camilo lillo-prueba camilo lilloUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
