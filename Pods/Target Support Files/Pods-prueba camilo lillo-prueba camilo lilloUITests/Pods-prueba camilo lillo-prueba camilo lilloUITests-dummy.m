@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_prueba_camilo_lillo_prueba_camilo_lilloUITests : NSObject
+@end
+@implementation PodsDummy_Pods_prueba_camilo_lillo_prueba_camilo_lilloUITests
+@end
